@@ -1,0 +1,11 @@
+{
+  "name": "typed-record-elm",
+  "version": "1.0.0",
+  "description": "Elm module witch adds Record-like type with named keys and explicitly typed values",
+  "private": true,
+  "scripts": {
+    "test": "elm-test"
+  },
+  "author": "Yuri2b",
+  "license": "GNU GPL v3"
+}
